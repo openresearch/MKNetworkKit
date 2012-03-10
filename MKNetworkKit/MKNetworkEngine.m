@@ -24,7 +24,7 @@
 //  THE SOFTWARE.
 
 #import "MKNetworkEngine.h"
-#import "Reachability.h"
+
 #define kFreezableOperationExtension @"mknetworkkitfrozenoperation"
 
 @interface MKNetworkEngine (/*Private Methods*/)
